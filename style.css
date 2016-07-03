@@ -1,0 +1,107 @@
+body
+{
+	background-color: white;
+	background: url("images/fond.png") fixed ;
+
+}
+
+p
+{ 
+	text-align: left;	
+	font-size: 1.7 em;
+	color: white;
+	font-family: Verdana;
+}
+
+nav
+{
+	font-family: Verdana;
+	font-weight: lighter;
+	color: grey;
+	background-color: rgb(245,245,245);
+	width: 20%;
+	height: 100%;
+	position: fixed;
+	word-wrap: break-word;
+	
+}
+
+h2
+{
+	color: grey;
+	font-family:  Arial Black, Verdana;
+	font-weight: bolder;
+	text-align: left;
+	font-size: xx-large;
+}
+
+h3
+{
+	font-family:  Verdana;
+	font-weight: bold;
+	margin-left: auto;
+    margin-right: auto;
+	color: white;
+	position: fixed;
+	word-wrap: break-word;
+	text-align: left;	
+	text-align: left;
+	size: 6 em;
+
+}
+
+
+IMG.displayed{
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+}
+
+div
+{
+	text-align: left;
+	font-size: 2 em;
+	color: white;
+	font-family:  Verdana;
+	width: 70%;
+	position: relative;
+	left: 25%;
+}
+
+:visited
+{
+	color: grey;
+	font-family: Verdana;
+}
+
+:link
+{
+	color: grey;
+	font-family: Verdana;
+	font-size: lighter;
+	font
+	
+}
+
+a:hover{
+	color: black;
+	font-family: Verdana;
+	font-weight: bolder;
+}
+
+
+.titre{
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+footer
+{
+	color : grey;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
